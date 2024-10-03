@@ -5,6 +5,11 @@
 
 ## 🏂 Introduce team members
 ### 🖥️ Frontend
+<details>
+  <summary>🤷🏻‍♀️ 백소원</summary>
+  
+  [Github](https://github.com/Wish-baek)
+</details>
 
 ### 🖌️ Designer
 
