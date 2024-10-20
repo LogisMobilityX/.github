@@ -11,6 +11,12 @@
   [Github](https://github.com/Wish-baek)
 </details>
 
+<details>
+  <summary>🤷🏻‍♂️ 이주영</summary>
+  
+  [Github](https://github.com/CodyMan0)
+</details>
+
 ### 🖌️ Designer
 
 ### 🖥️ Backend & Infra  
